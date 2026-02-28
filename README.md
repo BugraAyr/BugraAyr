@@ -5,7 +5,7 @@ Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Ağ
 ### İlgilendiğim Alanlar ve Teknolojiler
 
 - **Yapay Zeka & Veri Bilimi:** Python, Derin Öğrenme, Adversarial Attacks
-- **Siber Güvenlik:** Ağ Güvenliği, Yapay Zeka Destekli Güvenlik Analizi
+- **Siber Güvenlik:** Ağ Güvenliği
 - **Network**
 
 ### İletişim
