@@ -30,7 +30,7 @@ Akademik gelişimimi pratik projelerle desteklemeyi, teorik bilgiyi gerçek dün
 - **Yapay Zeka / Veri Bilimi:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
 - **Siber Güvenlik / Ağ:** Wireshark, Network Analysis, Traffic Inspection
 - **Veritabanı:** SQL Server, MySQL
-- **Diğer Araçlar:** Git, GitHub, Visual Studio, VS Code
+- **Diğer Araçlar:** Git, GitHub, Visual Studio, VS Code, Docker, Linux
 
 ## Şu Anda Odaklandığım Konular
 
