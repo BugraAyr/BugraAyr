@@ -26,7 +26,7 @@ Akademik gelişimimi pratik projelerle desteklemeyi, teorik bilgiyi gerçek dün
 
 ## Kullandığım Teknolojiler
 
-- **Programlama Dilleri:** Python, C, C#, SQL
+- **Programlama Dilleri:** Python, C, C#, SQL, C++
 - **Yapay Zeka / Veri Bilimi:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
 - **Siber Güvenlik / Ağ:** Wireshark, Network Analysis, Traffic Inspection
 - **Veritabanı:** SQL Server, MySQL
