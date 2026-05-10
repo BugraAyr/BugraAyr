@@ -36,7 +36,6 @@ Akademik gelişimimi pratik projelerle desteklemeyi, teorik bilgiyi gerçek dün
 
 - Siber güvenlik problemlerine yönelik derin öğrenme tabanlı çözümler geliştirmek
 - Adversarial saldırıların derin öğrenme modelleri üzerindeki etkilerini incelemek
-- Ağ trafiği verileri üzerinden saldırı tespiti ve analiz çalışmaları yapmak
 - Daha güvenilir, dayanıklı ve açıklanabilir yapay zeka sistemleri üzerine çalışmak
 
 ## Hedefim
